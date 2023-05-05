@@ -1,0 +1,27 @@
+|to fix|
+*podczas kolizji odrzuca samochód co na mniejszych skrzyżowaniach wyrzuca samochody z trasy
+
+|to update|
+zwrotnice -> system in out (znika w out pojawia się w losowym in, można połączyć z parkingami)
+punkt skrzyżowania horizontal/verticalDirection -> out/loopDirection
+kierunek określony jako dx,dy
+przesunięcie włączników skrzyżowań aby nie zasłaniały drogi
+
+|new|
+węzły połączone mapą
+klasa road - określenie maksymalniej prędkości na drodze
+punkt skrzyżowania in/outRoad
+pathfindind ... optymalna droga
+samochód powinien wiedzieć do jakiego skrzyżowania podąża
+samochód poruszany strzałkami
+
+
+Na następny hacatton:
+- zapisać główne założenia projektu
+- ustalić kamienie milowe
+- co najmniej dwie przerwy w pisaniu kodu gdzie cała drużyna omawia stan projektu, to czy trzymamy się założeń,
+  najpilniejsze rzeczy do zrobienia i to co można by zrobić
+- w ciągu 24h zawsze jest przynajmniej 1 osoba
+- nie wiesz, pytaj
+- więcej myślenia = mniej pisania
+- przede wszystkim dobrze się bawić :D
